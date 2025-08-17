@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.menu {
+  margin-bottom: 2rem;
+}
+
+.menu-tab {
+  background: none;
+  border: 1px solid #ccc;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.menu-tab.active {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.weight-class {
+  margin: 2rem 0;
+}
+
+.lifters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.lifter-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.lifter-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.gender-selection {
+  margin: 1rem 0;
+}
+
+.gender-tab {
+  background: none;
+  border: 1px solid #ccc;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.gender-tab.active {
+  background: #28a745;
+  color: white;
+  border-color: #28a745;
+}
