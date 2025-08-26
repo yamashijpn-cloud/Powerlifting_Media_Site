@@ -3,6 +3,12 @@
   font-family: sans-serif;
 }
 
+@media (max-width: 768px) {
+  .App {
+    font-size: 0.9rem;
+  }
+}
+
 .menu {
   margin-bottom: 2rem;
 }

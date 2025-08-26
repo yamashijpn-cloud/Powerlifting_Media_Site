@@ -2,7 +2,7 @@
   "name": "powerlifting-info",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JH.github.io/powerlifting_site",
+  "homepage": "https://yamashijpn-cloud.github.io/-powerlifting-info",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
