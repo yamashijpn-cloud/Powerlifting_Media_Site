@@ -1,6 +1,6 @@
 .app-header {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
   padding: 1rem 2rem;
   background-color: #212529; /* Dark background */
@@ -16,9 +16,11 @@
 
 .main-nav ul {
   margin: 0;
-  padding: 0;
+  padding: 1rem 0;
   list-style: none;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .main-nav li {
