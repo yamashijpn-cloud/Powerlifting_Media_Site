@@ -3,12 +3,6 @@
   font-family: sans-serif;
 }
 
-@media (max-width: 768px) {
-  .App {
-    font-size: 0.9rem;
-  }
-}
-
 .menu {
   margin-bottom: 2rem;
 }
@@ -20,6 +14,12 @@
   margin: 0 0.5rem;
   cursor: pointer;
   border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .menu-tab {
+    font-size: 1.14rem;
+  }
 }
 
 .menu-tab.active {
