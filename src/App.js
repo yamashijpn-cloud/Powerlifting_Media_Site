@@ -4,6 +4,7 @@ import './App.css';
 import Header from './components/Header';
 import HomePage from './pages/HomePage';
 import AthletesPage from './pages/AthletesPage';
+import RankingsPage from './pages/RankingsPage';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/athletes/:gender" element={<AthletesPage />} />
             <Route path="/athletes" element={<AthletesPage />} />
+            <Route path="/rankings" element={<RankingsPage />} />
           </Routes>
         </main>
       </div>
