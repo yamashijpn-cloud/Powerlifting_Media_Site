@@ -1,3 +1,22 @@
+html {
+  /* Base font size */
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  html {
+    /* Smaller font size for mobile */
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    /* Even smaller font size for small mobile */
+    font-size: 12px;
+  }
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
