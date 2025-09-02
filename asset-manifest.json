@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/-powerlifting-info/static/css/main.5355849c.css",
-    "main.js": "/-powerlifting-info/static/js/main.b27d6f4d.js",
+    "main.css": "/-powerlifting-info/static/css/main.e159ba76.css",
+    "main.js": "/-powerlifting-info/static/js/main.48e8dea9.js",
     "static/js/453.4d588358.chunk.js": "/-powerlifting-info/static/js/453.4d588358.chunk.js",
     "index.html": "/-powerlifting-info/index.html",
-    "main.5355849c.css.map": "/-powerlifting-info/static/css/main.5355849c.css.map",
-    "main.b27d6f4d.js.map": "/-powerlifting-info/static/js/main.b27d6f4d.js.map",
+    "main.e159ba76.css.map": "/-powerlifting-info/static/css/main.e159ba76.css.map",
+    "main.48e8dea9.js.map": "/-powerlifting-info/static/js/main.48e8dea9.js.map",
     "453.4d588358.chunk.js.map": "/-powerlifting-info/static/js/453.4d588358.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5355849c.css",
-    "static/js/main.b27d6f4d.js"
+    "static/css/main.e159ba76.css",
+    "static/js/main.48e8dea9.js"
   ]
 }
