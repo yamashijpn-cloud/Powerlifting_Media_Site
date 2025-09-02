@@ -3,6 +3,7 @@ import rankingsData from '../data/mockRankings.json';
 import RankingsTable from '../components/RankingsTable';
 import FilterBar from '../components/FilterBar';
 import '../components/FilterBar.css';
+import './RankingsPage.css'; // Import the new CSS file
 
 const RankingsPage = () => {
   const [lifters, setLifters] = useState([]);
@@ -47,10 +48,12 @@ const RankingsPage = () => {
   }, [filters]);
 
   return (
-    <div>
-      <h1>Rankings</h1>
-      <FilterBar filters={filters} setFilters={setFilters} options={options} />
-      <RankingsTable lifters={lifters} />
+    <div className="rankings-page">
+      <div className="rankings-container">
+        <h1>Rankings</h1>
+        <FilterBar filters={filters} setFilters={setFilters} options={options} />
+        <RankingsTable lifters={lifters} />
+      </div>
     </div>
   );
 };
