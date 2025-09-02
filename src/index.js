@@ -4,6 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// Redirect logic for GitHub Pages
+if (sessionStorage.redirect) {
+  const redirect = sessionStorage.redirect;
+  delete sessionStorage.redirect;
+  if (window.location.href.endsWith('/-powerlifting-info/')) {
+    window.history.replaceState(null, null, redirect);
+  }
+}
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

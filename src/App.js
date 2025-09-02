@@ -7,7 +7,7 @@ import AthletesPage from './pages/AthletesPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/-powerlifting-info">
       <div className="App">
         <Header />
         <main>
