@@ -1,6 +1,7 @@
 [
   {
     "lifterName": "Satoshi Yamamoto",
+    "gender": "M",
     "country": "Japan",
     "date": "2024-03-12",
     "event": "Japan Classic Powerlifting Championships",
@@ -15,6 +16,7 @@
   },
   {
     "lifterName": "Kenji Tanaka",
+    "gender": "M",
     "country": "Japan",
     "date": "2024-03-12",
     "event": "Japan Classic Powerlifting Championships",
@@ -29,6 +31,7 @@
   },
   {
     "lifterName": "Yuki Sato",
+    "gender": "M",
     "country": "Japan",
     "date": "2023-11-05",
     "event": "Asian Classic Powerlifting Championship",
@@ -43,6 +46,7 @@
   },
   {
     "lifterName": "Daiki Watanabe",
+    "gender": "M",
     "country": "Japan",
     "date": "2024-03-12",
     "event": "Japan Classic Powerlifting Championships",
@@ -57,6 +61,7 @@
   },
   {
     "lifterName": "Haruto Ito",
+    "gender": "M",
     "country": "Japan",
     "date": "2023-09-20",
     "event": "University Powerlifting Meet",
@@ -71,6 +76,7 @@
   },
   {
     "lifterName": "Gavin Adin",
+    "gender": "M",
     "country": "USA",
     "date": "2024-02-18",
     "event": "USAPL Raw Nationals",
@@ -85,6 +91,7 @@
   },
   {
     "lifterName": "Jesus Olivares",
+    "gender": "M",
     "country": "USA",
     "date": "2024-05-22",
     "event": "IPF World Classic Championships",
@@ -99,6 +106,7 @@
   },
   {
     "lifterName": "Emil Norling",
+    "gender": "M",
     "country": "Sweden",
     "date": "2024-05-22",
     "event": "IPF World Classic Championships",
@@ -113,6 +121,7 @@
   },
   {
     "lifterName": "Sakura Nakayama",
+    "gender": "F",
     "country": "Japan",
     "date": "2024-03-12",
     "event": "Japan Classic Powerlifting Championships",
@@ -127,6 +136,7 @@
   },
   {
     "lifterName": "Mai Kudo",
+    "gender": "F",
     "country": "Japan",
     "date": "2023-11-05",
     "event": "Asian Classic Powerlifting Championship",
@@ -141,6 +151,7 @@
   },
   {
     "lifterName": "Evie Corrigan",
+    "gender": "F",
     "country": "New Zealand",
     "date": "2024-05-22",
     "event": "IPF World Classic Championships",
@@ -155,6 +166,7 @@
   },
   {
     "lifterName": "Taylor Atwood",
+    "gender": "M",
     "country": "USA",
     "date": "2023-10-15",
     "event": "USAPL Raw Nationals",
@@ -169,6 +181,7 @@
   },
   {
     "lifterName": "John Haack",
+    "gender": "M",
     "country": "USA",
     "date": "2023-08-01",
     "event": "WRPF American Pro",
@@ -183,6 +196,7 @@
   },
   {
     "lifterName": "Yusuke Takeda",
+    "gender": "M",
     "country": "Japan",
     "date": "2024-03-12",
     "event": "Japan Classic Powerlifting Championships",
@@ -197,6 +211,7 @@
   },
   {
     "lifterName": "Amanda Lawrence",
+    "gender": "F",
     "country": "USA",
     "date": "2024-05-22",
     "event": "IPF World Classic Championships",
@@ -211,6 +226,7 @@
   },
   {
     "lifterName": "Ryohei Kobayashi",
+    "gender": "M",
     "country": "Japan",
     "date": "2023-11-05",
     "event": "Asian Classic Powerlifting Championship",
@@ -225,6 +241,7 @@
   },
   {
     "lifterName": "Panagiotis Tarinidis",
+    "gender": "M",
     "country": "France",
     "date": "2024-05-22",
     "event": "IPF World Classic Championships",
@@ -239,6 +256,7 @@
   },
   {
     "lifterName": "Heather Connor",
+    "gender": "F",
     "country": "USA",
     "date": "2024-05-22",
     "event": "IPF World Classic Championships",
@@ -253,6 +271,7 @@
   },
   {
     "lifterName": "Nodoka Murakami",
+    "gender": "F",
     "country": "Japan",
     "date": "2024-03-12",
     "event": "Japan Classic Powerlifting Championships",
@@ -267,6 +286,7 @@
   },
   {
     "lifterName": "Russel Orhii",
+    "gender": "M",
     "country": "USA",
     "date": "2023-10-15",
     "event": "USAPL Raw Nationals",
