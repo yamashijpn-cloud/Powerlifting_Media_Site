@@ -5,12 +5,12 @@ import Header from './components/Header';
 import HomePage from './pages/HomePage';
 import AthletesPage from './pages/AthletesPage';
 import RankingsPage from './pages/RankingsPage';
+import LiftersPage from './pages/LiftersPage'; // Import the new LiftersPage
 import EventsPage from './pages/EventsPage'; // Import the new page
 
 function App() {
   return (
-    <Router basename="/-powerlifting-info">
-      <div className="App">
+          <Router basename="/Powerlifting_Media_Site">      <div className="App">
         <Header />
         <main>
           <Routes>
@@ -18,6 +18,7 @@ function App() {
             <Route path="/athletes/:gender" element={<AthletesPage />} />
             <Route path="/athletes" element={<AthletesPage />} />
             <Route path="/rankings" element={<RankingsPage />} />
+            <Route path="/lifters" element={<LiftersPage />} /> {/* Add the new LiftersPage route */}
             <Route path="/events" element={<EventsPage />} /> {/* Add the new route */}
           </Routes>
         </main>

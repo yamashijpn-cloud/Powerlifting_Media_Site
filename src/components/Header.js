@@ -22,19 +22,7 @@ const Header = () => {
         <ul>
           <li><Link to="/">ホーム</Link></li>
           <li><Link to="/rankings">ランキング</Link></li>
-          <li
-            onMouseEnter={handleMouseEnter}
-            onMouseLeave={handleMouseLeave}
-            className="dropdown-container"
-          >
-            <Link to="/athletes/male">選手</Link>
-            {isDropdownVisible && (
-              <ul className="dropdown-menu">
-                <li><Link to="/athletes/male">男子</Link></li>
-                <li><Link to="/athletes/female">女子</Link></li>
-              </ul>
-            )}
-          </li>
+          <li><Link to="/lifters">選手</Link></li>
           <li><Link to="/events">大会情報</Link></li>
           <li><Link to="/about">概要</Link></li>
         </ul>

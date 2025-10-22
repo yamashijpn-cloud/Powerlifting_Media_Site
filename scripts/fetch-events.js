@@ -1,15 +1,19 @@
+const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
+const iconv = require('iconv-lite'); // For explicit decoding
 
-const inputFilePath = path.join(__dirname, '..', 'curl_output.html');
+const url = 'https://www.jpa-powerlifting.or.jp/championships.php';
 const outputFilePath = path.join(__dirname, '..', 'src', 'data', 'mockEvents.json');
 
 const fetchData = async () => {
   try {
-    const html = fs.readFileSync(inputFilePath, 'utf8');
+    // Fetch as raw binary data and explicitly decode as UTF-8
+    const response = await axios.get(url, { responseType: 'arraybuffer' });
+    const html = iconv.decode(response.data, 'UTF-8');
     const $ = cheerio.load(html);
-    console.log('Successfully loaded HTML from curl_output.html.');
+    console.log('Successfully fetched and explicitly decoded the HTML as UTF-8.');
 
     let allEvents = [];
 

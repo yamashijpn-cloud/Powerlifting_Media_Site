@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import lifters from '../lifters';
+import lifters from '../data/lifters.json';
 import WeightClass from '../components/WeightClass';
 import '../App.css';
 

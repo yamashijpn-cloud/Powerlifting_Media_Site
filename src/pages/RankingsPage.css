@@ -17,3 +17,39 @@
   margin-bottom: 2rem;
   color: #333;
 }
+
+/* Pagination Styles */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  gap: 5px; /* ボタン間のスペース */
+  flex-wrap: wrap; /* 画面幅が狭い場合に折り返す */
+}
+
+.pagination button {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+  min-width: 35px; /* ページ番号が1桁でも2桁でも同じ幅 */
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.pagination button:hover:not(:disabled) {
+  background-color: #e0e0e0;
+}
+
+.pagination button.active {
+  background-color: #007bff; /* アクティブなページの背景色 */
+  color: white;
+  border-color: #007bff;
+}
+
+.pagination button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

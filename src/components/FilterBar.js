@@ -14,8 +14,7 @@ const FilterBar = ({ filters, setFilters, options }) => {
       {/* Gender Filter */}
       <select name="gender" value={filters.gender} onChange={handleFilterChange}>
         <option value="All">All Genders</option>
-        <option value="M">Male</option>
-        <option value="F">Female</option>
+        {options.genders?.map(opt => <option key={opt} value={opt}>{opt === 'M' ? 'Male' : 'Female'}</option>)}
       </select>
 
       {/* Equipment Filter */}

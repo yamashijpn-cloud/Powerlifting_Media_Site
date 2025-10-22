@@ -1,0 +1,498 @@
+{
+  "male": {
+    "74kg級": [
+      {
+        "name": "Austin Perkins #1",
+        "image": "/images/default.jpg",
+        "squat": 320,
+        "bench": 208,
+        "deadlift": 330,
+        "total": 858,
+        "twitterId": "austinperkins1",
+        "instagramId": "the74kg"
+      },
+      {
+        "name": "Taylor Atwood",
+        "image": "/images/default.jpg",
+        "squat": 303,
+        "bench": 195,
+        "deadlift": 340.5,
+        "total": 838.5,
+        "twitterId": "tayloratwood",
+        "instagramId": "t_atwood"
+      },
+      {
+        "name": "Elliott Sykes",
+        "image": "/images/default.jpg",
+        "squat": 315,
+        "bench": 187.5,
+        "deadlift": 312.5,
+        "total": 815,
+        "twitterId": "elliottsykes",
+        "instagramId": "malicious_lifts"
+      }
+    ],
+    "83kg級": [
+      {
+        "name": "Joseph Borenstein",
+        "image": "/images/default.jpg",
+        "squat": 307.5,
+        "bench": 219,
+        "deadlift": 377.5,
+        "total": 904,
+        "twitterId": "josephborenstein",
+        "instagramId": "joe.borenstein"
+      },
+      {
+        "name": "Jurins Kengamu",
+        "image": "/images/default.jpg",
+        "squat": 317.5,
+        "bench": 195,
+        "deadlift": 360,
+        "total": 872.5,
+        "twitterId": "jurinskengamu",
+        "instagramId": "jkeng88"
+      },
+      {
+        "name": "Delaney Wallace",
+        "image": "/images/default.jpg",
+        "squat": 310,
+        "bench": 207.5,
+        "deadlift": 350,
+        "total": 867.5,
+        "twitterId": "delaneywallace",
+        "instagramId": "dlaneywallace"
+      }
+    ],
+    "93kg級": [
+      {
+        "name": "William Ball #2",
+        "image": "/images/default.jpg",
+        "squat": 322.5,
+        "bench": 222.5,
+        "deadlift": 375,
+        "total": 920,
+        "twitterId": "williamball2",
+        "instagramId": "willowlifts_"
+      },
+      {
+        "name": "Jonathan Cayco",
+        "image": "/images/default.jpg",
+        "squat": 310,
+        "bench": 252,
+        "deadlift": 357.5,
+        "total": 919.5,
+        "twitterId": "jonathancayco",
+        "instagramId": "league_of_lifting"
+      },
+      {
+        "name": "Russel Orhii",
+        "image": "/images/default.jpg",
+        "squat": 355.5,
+        "bench": 207.5,
+        "deadlift": 355,
+        "total": 918,
+        "twitterId": "russelorhii",
+        "instagramId": "russwole"
+      }
+    ],
+    "105kg級": [
+      {
+        "name": "Anthony McNaughton",
+        "image": "/images/default.jpg",
+        "squat": 365,
+        "bench": 245,
+        "deadlift": 369,
+        "total": 979,
+        "twitterId": "anthonymcnaughton",
+        "instagramId": "mcdoublethicc"
+      },
+      {
+        "name": "Keenan Lee",
+        "image": "/images/default.jpg",
+        "squat": 360,
+        "bench": 230,
+        "deadlift": 368.5,
+        "total": 958.5,
+        "twitterId": "keenanlee",
+        "instagramId": "arandomkoreandude"
+      },
+      {
+        "name": "Ashton Rouska",
+        "image": "/images/default.jpg",
+        "squat": 360,
+        "bench": 207.5,
+        "deadlift": 383,
+        "total": 950.5,
+        "twitterId": "ashtonrouska",
+        "instagramId": "ashhh_117"
+      }
+    ],
+    "120kg級": [
+      {
+        "name": "Rondel Hunte",
+        "image": "/images/default.jpg",
+        "squat": 375,
+        "bench": 260,
+        "deadlift": 375,
+        "total": 1010,
+        "twitterId": "rondelhunte",
+        "instagramId": "mr.hunte_120kg"
+      },
+      {
+        "name": "Nonso Chinye",
+        "image": "/images/default.jpg",
+        "squat": 355,
+        "bench": 217.5,
+        "deadlift": 415.5,
+        "total": 988,
+        "twitterId": "nonsochinye",
+        "instagramId": "nojo.fitness"
+      },
+      {
+        "name": "Bobb Matthews",
+        "image": "/images/default.jpg",
+        "squat": 360,
+        "bench": 240,
+        "deadlift": 378.5,
+        "total": 978.5,
+        "twitterId": "bobbmatthews",
+        "instagramId": "ssjbobb"
+      }
+    ],
+    "66kg級": [
+      {
+        "name": "Kjell Egil Bakkelund",
+        "image": "/images/default.jpg",
+        "squat": 257.5,
+        "bench": 195,
+        "deadlift": 317.5,
+        "total": 770,
+        "twitterId": "kjellegilbakkelund",
+        "instagramId": "kjelllbrell"
+      },
+      {
+        "name": "牛山 恭太",
+        "image": "/images/default.jpg",
+        "squat": 247.5,
+        "bench": 177.5,
+        "deadlift": 300,
+        "total": 725,
+        "twitterId": "kyotaushiyama",
+        "instagramId": "usshiy_66kg"
+      },
+      {
+        "name": "Joseph Jordan #2",
+        "image": "/images/default.jpg",
+        "squat": 260,
+        "bench": 170,
+        "deadlift": 290,
+        "total": 720,
+        "twitterId": "josephjordan2",
+        "instagramId": "joe.jordan23"
+      }
+    ],
+    "120kg超級": [
+      {
+        "name": "Jesus Olivares",
+        "image": "/images/default.jpg",
+        "squat": 470,
+        "bench": 272.5,
+        "deadlift": 410,
+        "total": 1152.5,
+        "twitterId": "jesusolivares",
+        "instagramId": "mega.gojira"
+      },
+      {
+        "name": "Ray Williams #1",
+        "image": "/images/default.jpg",
+        "squat": 477.5,
+        "bench": 235,
+        "deadlift": 392.5,
+        "total": 1105,
+        "twitterId": "raywilliams1",
+        "instagramId": "optimusprime_334"
+      },
+      {
+        "name": "Temur Samkharadze",
+        "image": "/images/default.jpg",
+        "squat": 430,
+        "bench": 255,
+        "deadlift": 402.5,
+        "total": 1087.5,
+        "twitterId": "temursamkharadze",
+        "instagramId": "temur_samkharadze"
+      }
+    ],
+    "59kg級": [
+      {
+        "name": "Sergey Fedosienko",
+        "image": "/images/default.jpg",
+        "squat": 226.5,
+        "bench": 170.5,
+        "deadlift": 273,
+        "total": 670,
+        "twitterId": "sergeyfedosienko",
+        "instagramId": "sergey_fedosienko"
+      }
+    ]
+  },
+  "female": {
+    "69kg級": [
+      {
+        "name": "Agata Sitko",
+        "image": "/images/default.jpg",
+        "squat": 207.5,
+        "bench": 150,
+        "deadlift": 255,
+        "total": 612.5,
+        "twitterId": "agatasitko",
+        "instagramId": "ja.gata_sitko"
+      },
+      {
+        "name": "Carola Garra",
+        "image": "/images/default.jpg",
+        "squat": 226,
+        "bench": 150,
+        "deadlift": 212.5,
+        "total": 588.5,
+        "twitterId": "carolagarra",
+        "instagramId": "carolagarra"
+      },
+      {
+        "name": "Prescillia Bavoil",
+        "image": "/images/default.jpg",
+        "squat": 225,
+        "bench": 122.5,
+        "deadlift": 237.5,
+        "total": 585,
+        "twitterId": "prescilliabavoil",
+        "instagramId": "lya_powerlift"
+      }
+    ],
+    "84kg超級": [
+      {
+        "name": "Brittany Schlater",
+        "image": "/images/default.jpg",
+        "squat": 295,
+        "bench": 162.5,
+        "deadlift": 280,
+        "total": 737.5,
+        "twitterId": "brittanyschlater",
+        "instagramId": "bertlebee"
+      },
+      {
+        "name": "Sonita Muluh",
+        "image": "/images/default.jpg",
+        "squat": 318,
+        "bench": 152.5,
+        "deadlift": 265,
+        "total": 735.5,
+        "twitterId": "sonitamuluh",
+        "instagramId": "sonita_ml"
+      },
+      {
+        "name": "Alexis Jones #1",
+        "image": "/images/default.jpg",
+        "squat": 275,
+        "bench": 167,
+        "deadlift": 262.5,
+        "total": 704.5,
+        "twitterId": "alexisjones1",
+        "instagramId": "alexisjjoness"
+      }
+    ],
+    "52kg級": [
+      {
+        "name": "Megan-Li Smith",
+        "image": "/images/default.jpg",
+        "squat": 180,
+        "bench": 105,
+        "deadlift": 197.5,
+        "total": 482.5,
+        "twitterId": "meganlismith",
+        "instagramId": "megg_lifts"
+      },
+      {
+        "name": "Evie Corrigan",
+        "image": "/images/default.jpg",
+        "squat": 167.5,
+        "bench": 105,
+        "deadlift": 208.5,
+        "total": 481,
+        "twitterId": "eviecorrigan",
+        "instagramId": "beeevie"
+      },
+      {
+        "name": "Pleun Dekkers",
+        "image": "/images/default.jpg",
+        "squat": 179.5,
+        "bench": 95,
+        "deadlift": 185,
+        "total": 459.5,
+        "twitterId": "pleundekkers",
+        "instagramId": "pleun.powerlift"
+      }
+    ],
+    "63kg級": [
+      {
+        "name": "Meghan Scanlon",
+        "image": "/images/default.jpg",
+        "squat": 203,
+        "bench": 143,
+        "deadlift": 220,
+        "total": 566,
+        "twitterId": "meghanscanlon",
+        "instagramId": "megscanlift"
+      },
+      {
+        "name": "Alba Boström",
+        "image": "/images/default.jpg",
+        "squat": 197.5,
+        "bench": 140,
+        "deadlift": 227.5,
+        "total": 565,
+        "twitterId": "albabostrom",
+        "instagramId": "albabostrm"
+      },
+      {
+        "name": "Chiara Bernardi",
+        "image": "/images/default.jpg",
+        "squat": 200,
+        "bench": 127.5,
+        "deadlift": 232.5,
+        "total": 560,
+        "twitterId": "chiarabernardi",
+        "instagramId": "chiaraabernardi"
+      }
+    ],
+    "76kg級": [
+      {
+        "name": "Karlina Tongotea",
+        "image": "/images/default.jpg",
+        "squat": 230,
+        "bench": 130,
+        "deadlift": 260,
+        "total": 620,
+        "twitterId": "karlinatongotea",
+        "instagramId": "karlina23"
+      },
+      {
+        "name": "Cranon Worford",
+        "image": "/images/default.jpg",
+        "squat": 222.5,
+        "bench": 127.5,
+        "deadlift": 245,
+        "total": 595,
+        "twitterId": "cranonworford",
+        "instagramId": "cranonnn"
+      },
+      {
+        "name": "Laura Mautalen",
+        "image": "/images/default.jpg",
+        "squat": 197.5,
+        "bench": 150,
+        "deadlift": 242.5,
+        "total": 590,
+        "twitterId": "lauramautalen",
+        "instagramId": "9h29_"
+      }
+    ],
+    "57kg級": [
+      {
+        "name": "Jade Jacob",
+        "image": "/images/default.jpg",
+        "squat": 188,
+        "bench": 100,
+        "deadlift": 231.5,
+        "total": 519.5,
+        "twitterId": "jadejacob",
+        "instagramId": "jade.jacobb"
+      },
+      {
+        "name": "Natalie Richards #1",
+        "image": "/images/default.jpg",
+        "squat": 186.5,
+        "bench": 110,
+        "deadlift": 220,
+        "total": 516.5,
+        "twitterId": "natalierichards1",
+        "instagramId": "nat_lifting"
+      },
+      {
+        "name": "Joy Nnamani",
+        "image": "/images/default.jpg",
+        "squat": 177.5,
+        "bench": 97.5,
+        "deadlift": 231,
+        "total": 506,
+        "twitterId": "joynnamani",
+        "instagramId": "j_nnamani"
+      }
+    ],
+    "84kg級": [
+      {
+        "name": "Amanda Lawrence #1",
+        "image": "/images/default.jpg",
+        "squat": 249.5,
+        "bench": 135,
+        "deadlift": 262.5,
+        "total": 647,
+        "twitterId": "amandalawrence1",
+        "instagramId": "miss.amanda.ann"
+      },
+      {
+        "name": "Daniella Melo",
+        "image": "/images/default.jpg",
+        "squat": 230,
+        "bench": 137,
+        "deadlift": 246,
+        "total": 613,
+        "twitterId": "daniellamelo",
+        "instagramId": "daniellamelo"
+      },
+      {
+        "name": "Ziana Azariah",
+        "image": "/images/default.jpg",
+        "squat": 220,
+        "bench": 117.5,
+        "deadlift": 269.5,
+        "total": 607,
+        "twitterId": "zianaazariah",
+        "instagramId": "zianatheepowerlifter"
+      }
+    ],
+    "47kg級": [
+      {
+        "name": "Heather Connor",
+        "image": "/images/default.jpg",
+        "squat": 147.5,
+        "bench": 75,
+        "deadlift": 212.5,
+        "total": 435,
+        "twitterId": "heatherconnor",
+        "instagramId": "heather.e.connor"
+      },
+      {
+        "name": "Jessica Espinal",
+        "image": "/images/default.jpg",
+        "squat": 150,
+        "bench": 97.5,
+        "deadlift": 186,
+        "total": 433.5,
+        "twitterId": "jessicaespinal",
+        "instagramId": "jessiibabykg"
+      },
+      {
+        "name": "Leanne Le",
+        "image": "/images/default.jpg",
+        "squat": 145,
+        "bench": 90,
+        "deadlift": 187.5,
+        "total": 422.5,
+        "twitterId": "leannele",
+        "instagramId": "lele.liftin"
+      }
+    ]
+  }
+}
